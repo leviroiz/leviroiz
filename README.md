@@ -32,16 +32,17 @@
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-**Infraestrutura:**
+**Infraestrutura & E-commerce:**
 
-![Windows](https://img.shields.io/badge/Suporte_TI-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Suporte TI](https://img.shields.io/badge/Suporte_TI-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Nuvemshop](https://img.shields.io/badge/Nuvemshop-4A0080?style=for-the-badge&logo=shopify&logoColor=white)
+![Bling ERP](https://img.shields.io/badge/Bling_ERP-E8A800?style=for-the-badge&logoColor=white)
 
 ---
 
 ## 🚀 Experiências
 
-- 🛒 **Gerente de E-commerce** na JM Collection — criei do zero a loja virtual ([joseniramartins.com.br](http://joseniramartins.com.br)), incluindo identidade visual, catálogo, pagamentos e logística
+- 🛒 **Gerente de E-commerce** na JM Collection — criei do zero a loja virtual ([joseniramartins.com.br](http://joseniramartins.com.br)), incluindo identidade visual, catálogo, pagamentos, logística e gestão via **Bling ERP**
 - 🖥️ **Técnico em TI** na Chromos Imagem — manutenção de computadores, servidores e sistemas internos
 - 💰 **Analista Financeiro** na Brownieland — relatórios e projeções financeiras para tomada de decisão
 

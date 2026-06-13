@@ -55,6 +55,12 @@
 
 ---
 
+## 🔨 Atualmente trabalhando em
+
+- **Calculadora Web** - quem nunca fez uma calculadora, né? 😄 Projeto em HTML, CSS e JavaScript, criado do zero com Git para praticar commits de verdade.
+
+---
+
 ## 📊 Minhas estatísticas no GitHub
 
 <div align="center">

@@ -47,7 +47,7 @@
 
 ---
 ## 🔨 Atualmente trabalhando em
-- **Calculadora Web** - quem nunca fez uma calculadora, né? 😄 Projeto em HTML, CSS e JavaScript, criado do zero com Git para praticar commits de verdade.
+- **Clone - FromSoftware** - amo os jogos dessa empresa, o site é muito bem feito e visualmente bonito. Projeto em HTML, CSS e JavaScript, criado do zero com Git para continuar praticando.
 
 ---
 ## 📊 Minhas estatísticas no GitHub

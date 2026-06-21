@@ -47,7 +47,7 @@
 
 ---
 ## 🔨 Atualmente trabalhando em
-- **Clone - FromSoftware** - amo os jogos dessa empresa, o site é muito bem feito e visualmente bonito. Projeto em HTML, CSS e JavaScript, criado do zero com Git para continuar praticando.
+- **Clone - Old Discord** - é uma nítida evolução que houve no site do discord, nesta primeira parte farei o site antigo do discord. Projeto em HTML, CSS e JavaScript, criado do zero com Git para continuar praticando.
 
 ---
 ## 📊 Minhas estatísticas no GitHub

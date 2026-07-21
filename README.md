@@ -79,9 +79,9 @@ Principais atividades:
 
 ---
 
-### 🤖 Analista de Automação e IA — Brownieland
+### 🤖 Projeto de Automação e IA — Brownieland
 
-**Atual**
+**Junho de 2026 - Atual | Remoto**
 
 Desenvolvo soluções de automação e inteligência artificial para melhorar processos de atendimento, marketing, gestão e vendas.
 
@@ -96,7 +96,7 @@ Principais atividades:
 
 ---
 
-### 🛒 Gerente de E-commerce — JM Collection
+### 🛒 Analista de E-commerce — JM Collection
 
 Criei do zero a loja virtual da empresa, incluindo:
 
@@ -114,7 +114,9 @@ Criei do zero a loja virtual da empresa, incluindo:
 
 ### 💰 Analista Financeiro — Brownieland
 
-Atuei na elaboração de relatórios, controles e projeções financeiras para apoiar a tomada de decisão da empresa.
+ - Fluxo de caixa;
+ - Elaboração de relatórios;
+ - Análise, controle e projeções financeiras.
 
 ---
 

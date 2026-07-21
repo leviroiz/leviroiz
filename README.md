@@ -76,7 +76,6 @@ Principais atividades:
 - análise da responsividade das páginas para computador e dispositivos móveis;
 - melhoria de menus, categorias, vitrines e fluxos de compra;
 - organização de componentes e operações utilizadas nos sistemas;
-- desenvolvimento de soluções, automações e melhorias para processos internos.
 
 ---
 

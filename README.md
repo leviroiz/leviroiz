@@ -72,18 +72,18 @@ Profissional em início de carreira, com graduação em **Engenharia de Software
 
 ### 🐣 [Presentes da Cegonha — E-commerce](https://github.com/leviroiz/presentes-da-cegonha)
 
-Projeto de conclusão do curso Técnico em Informática, desenvolvido em dupla para simular uma operação de e-commerce de produtos infantis.
+Projeto acadêmico de 2023, desenvolvido em dupla e posteriormente modernizado para portfólio com foco em segurança, qualidade e organização do código.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-- Interface de catálogo, cadastro, autenticação, carrinho e painel administrativo
-- Operações CRUD integradas a banco de dados relacional
-- Desenvolvimento do front-end e apoio na implementação do back-end
-- Projeto acadêmico de 2023, atualmente em revisão técnica para portfólio
+- Catálogo, autenticação, carrinho demonstrativo e painel administrativo com CRUDs em MySQL
+- Segurança revisada com prepared statements, proteção CSRF, controle de sessão e senhas com hash
+- Configuração por variáveis de ambiente, Docker e verificações automáticas no GitHub Actions
+- Versão acadêmica original preservada na tag `v1-academico-2023`
 
 ### 🧮 [Calculator iOS 26](https://github.com/leviroiz/Calculator-IOS-26)
 

@@ -70,6 +70,21 @@ Profissional em início de carreira, com graduação em **Engenharia de Software
 
 ## 🚀 Projetos em destaque
 
+### 📦 [Painel de Gestão de Lotes Consignados](https://github.com/leviroiz/gestao-lotes-consignados-demo)
+
+Demonstração pública criada a partir da análise de um processo real de consignados e reconstruída para portfólio com dados totalmente sintéticos.
+
+[![Demonstração online](https://img.shields.io/badge/Abrir_demo-GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)](https://leviroiz.github.io/gestao-lotes-consignados-demo/)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+- Modelei indicadores de lotes enviados, vendidos, devolvidos e pendentes por vendedor e cliente
+- Desenvolvi visões por perfil, busca, filtros combinados, ordenação e estados de carregamento, erro e ausência de dados
+- Reestruturei a demonstração para publicação sem marcas, credenciais, endpoints ou informações operacionais da empresa
+- Implementei auditoria automatizada, validação no GitHub Actions e publicação contínua no GitHub Pages
+
 ### 🐣 [Presentes da Cegonha — E-commerce](https://github.com/leviroiz/presentes-da-cegonha)
 
 Projeto acadêmico de 2023, desenvolvido em dupla e posteriormente modernizado para portfólio com foco em segurança, qualidade e organização do código.
@@ -126,16 +141,16 @@ Calculadora web inspirada na interface do iOS, construída com tecnologias web p
 - Estruturo fluxos para clientes, reuniões, kits, pedidos, produção, comissões e acompanhamento executivo
 - Projetei três agentes de IA especializados, com workflows, bases de conhecimento, hierarquia de fontes, guardrails e revisão humana
 
-<details>
-<summary><strong>📌 Experiências anteriores</strong></summary>
-
-<br>
-
 ### Auxiliar Administrativo — atuação em E-commerce | JM Collection
 **Mar/2025 — Out/2025**
 
 - Participei da implantação e assumi responsabilidades crescentes na operação do e-commerce
 - Configurei a Nuvemshop e integrei o Bling ERP aos processos de estoque, pedidos, separação e expedição
+
+<details>
+<summary><strong>📌 Experiência anterior em suporte e infraestrutura</strong></summary>
+
+<br>
 
 ### Estagiário de TI | Chromos Imagem
 **Ago/2023 — Dez/2023**

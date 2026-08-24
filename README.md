@@ -157,8 +157,8 @@ Projeto acadêmico de 2023, desenvolvido em dupla e posteriormente modernizado p
 ## 📊 Minhas estatísticas no GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=leviroiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Carlos Levi">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviroiz&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1800&hide=Hack" alt="Linguagens mais utilizadas por Carlos Levi">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leviroiz&theme=tokyonight" alt="Estatísticas do GitHub de Carlos Levi">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leviroiz&theme=tokyonight" alt="Linguagens dos repositórios de Carlos Levi">
 </div>
 
 ---

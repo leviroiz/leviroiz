@@ -35,8 +35,12 @@ Transformo problemas reais de negócio em fluxos digitais, automações e soluç
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -59,7 +63,7 @@ Transformo problemas reais de negócio em fluxos digitais, automações e soluç
 ![Nuvemshop](https://img.shields.io/badge/Nuvemshop-4A0080?style=for-the-badge&logo=shopify&logoColor=white)
 ![Cielo](https://img.shields.io/badge/Cielo-0066CC?style=for-the-badge)
 
-> 📖 Atualmente aprofundando conhecimentos em **Python, Django e desenvolvimento full-stack**.
+> 📖 Atualmente aprofundando conhecimentos em **Django e desenvolvimento full-stack**.
 
 ---
 
@@ -67,16 +71,30 @@ Transformo problemas reais de negócio em fluxos digitais, automações e soluç
 
 ### 📦 [Painel de Gestão de Lotes Consignados](https://github.com/leviroiz/gestao-lotes-consignados-demo)
 
-Demonstração pública criada a partir da análise de um processo real de consignados e reconstruída para portfólio com dados totalmente sintéticos.
+Protótipo full stack criado a partir da análise de um processo real de consignados para validar regras, perfis de acesso e experiência da interface. A operação optou por uma solução interna já existente, portanto o painel não foi implantado em produção. Para portfólio, reconstruí uma demonstração estática com dados totalmente sintéticos.
+
+**Stack do protótipo original**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![TOTVS API REST](https://img.shields.io/badge/TOTVS-API_REST-0C9ABE?style=for-the-badge)
+
+**Demonstração pública**
 
 [![Abrir demonstração](https://img.shields.io/badge/Abrir_demo-GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://leviroiz.github.io/gestao-lotes-consignados-demo/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-- Modelei indicadores de lotes enviados, vendidos, devolvidos e pendentes por vendedor e cliente
-- Desenvolvi visões por perfil, filtros, busca, ordenação e diferentes estados da interface
-- Preparei uma versão segura, responsiva e sem marcas, credenciais, endpoints ou informações operacionais reais
-- Implementei auditoria automatizada, validação contínua e publicação no GitHub Pages
+- Desenvolvi o backend em Python/FastAPI e a interface com Jinja2, HTML, CSS e JavaScript
+- Implementei regras de saldo consignado e integração assíncrona com a API TOTVS por meio do HTTPX
+- Estruturei autenticação e autorização por perfil, sessões seguras, persistência em SQLite e testes automatizados com Pytest
+- Preparei uma demonstração pública responsiva, sem marcas, credenciais, endpoints ou informações operacionais reais
 
 ### 🐣 [Presentes da Cegonha — E-commerce](https://github.com/leviroiz/presentes-da-cegonha)
 

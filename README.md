@@ -222,11 +222,15 @@ Academic e-commerce project originally developed in 2023 and later modernized fo
 
 ---
 
-## 🎓 Formação e certificação
+## 🎓 Education & Certifications
 
-- **Bacharelado em Engenharia de Software** — UniCesumar — em andamento | conclusão prevista para 2030
-- **Técnico em Informática** — EEEP Monsenhor José Aloysio Pinto — concluído em 2023
-- **Suporte Técnico em TI** — Dell Technologies (Dell EMC)
+- **B.Sc. in Software Engineering** — UniCesumar  
+  *Expected graduation: 2030*
+
+- **Technical Degree in Information Technology** — EEEP Monsenhor José Aloysio Pinto  
+  *Completed in 2023*
+
+- **IT Technical Support** — Dell Technologies (Dell EMC)
 
 ---
 

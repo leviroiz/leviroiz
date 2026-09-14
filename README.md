@@ -137,62 +137,58 @@ The workflow automates document collection, folder creation, and access records,
 
 ---
 
-## 🚀 Projetos públicos em destaque
+## 🚀 Featured Public Projects
 
-### 📦 [Painel de Gestão de Lotes Consignados](https://github.com/leviroiz/gestao-lotes-consignados-demo)
+### 📦 [Consignment Batch Management System](https://github.com/leviroiz/gestao-lotes-consignados-demo)
 
-Protótipo full stack criado a partir da análise de um processo real de consignados para validar regras de negócio, perfis de acesso e experiência da interface.
+A full-stack prototype based on the analysis of a real consignment workflow, created to validate business rules, user roles, and interface flows.
 
-A operação optou posteriormente por uma solução interna já existente. Para portfólio, reconstruí uma demonstração pública utilizando apenas dados sintéticos.
+The original process was later handled by an internal solution. For portfolio purposes, I rebuilt the project as a public demo using only synthetic data.
 
-**Stack do protótipo original**
+**Stack:**  
+`Python` · `FastAPI` · `SQLite` · `Jinja2` · `JavaScript` · `Pytest`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+**Highlights:**
 
-[![Abrir demonstração](https://img.shields.io/badge/Abrir_demo-GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://leviroiz.github.io/gestao-lotes-consignados-demo/)
+- Backend built with Python and FastAPI
+- Role-based authentication and authorization
+- Secure session handling
+- SQLite persistence
+- Asynchronous API integration using HTTPX
+- Automated tests with Pytest
+- Public demo with no real company data, credentials, brands, or private endpoints
 
-- Backend em Python/FastAPI
-- Interface com Jinja2, HTML, CSS e JavaScript
-- Integração assíncrona com API TOTVS utilizando HTTPX
-- Autenticação e autorização por perfil
-- Sessões seguras e persistência em SQLite
-- Testes automatizados com Pytest
-- Demonstração pública sem dados, marcas, credenciais ou endpoints reais
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://leviroiz.github.io/gestao-lotes-consignados-demo/)
 
 ---
 
 ### 🐣 [Presentes da Cegonha — E-commerce](https://github.com/leviroiz/presentes-da-cegonha)
 
-Projeto acadêmico desenvolvido em 2023 e posteriormente modernizado para portfólio.
+Academic e-commerce project originally developed in 2023 and later modernized for portfolio purposes.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+**Stack:**  
+`PHP` · `MySQL` · `Docker` · `GitHub Actions`
 
-- Catálogo e autenticação
-- Carrinho demonstrativo
-- Painel administrativo com CRUDs em MySQL
-- Prepared statements e proteção CSRF
-- Controle de sessão e armazenamento seguro de senhas
-- Variáveis de ambiente
-- Docker
-- Verificações automáticas com GitHub Actions
-- Versão acadêmica original preservada na tag `v1-academico-2023`
+**Highlights:**
+
+- Product catalog and authentication
+- Demonstration shopping cart
+- Admin dashboard with MySQL CRUD operations
+- Prepared statements and CSRF protection
+- Secure password handling and session control
+- Environment variables
+- Dockerized development environment
+- Automated checks with GitHub Actions
+- Original academic version preserved in the `v1-academico-2023` tag
 
 <details>
-<summary><strong>🔨 Outros projetos e estudos</strong></summary>
+<summary><strong>🔨 Other Projects & Studies</strong></summary>
 
 <br>
 
-- [Calculator iOS 26](https://github.com/leviroiz/Calculator-IOS-26) — calculadora responsiva com JavaScript, CSS Grid e suporte a teclado
-- [Disney+ Clone](https://github.com/leviroiz/disney-plus-clone) — landing page com HTML e CSS
-- [Netflix Clone](https://github.com/leviroiz/netflix-clone) — estudo de HTML semântico, CSS Grid e composição visual
+- [Calculator iOS 26](https://github.com/leviroiz/Calculator-IOS-26) — responsive calculator built with JavaScript and CSS Grid, with keyboard support
+- [Disney+ Clone](https://github.com/leviroiz/disney-plus-clone) — landing page focused on HTML and CSS practice
+- [Netflix Clone](https://github.com/leviroiz/netflix-clone) — study project focused on semantic HTML, CSS Grid, and visual composition
 
 </details>
 

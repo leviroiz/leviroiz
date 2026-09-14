@@ -194,60 +194,29 @@ Academic e-commerce project originally developed in 2023 and later modernized fo
 
 ---
 
-## 💼 Experiência profissional
-
-### 💻 Estagiário de TI e E-commerce — Kallifon Empreendimentos
-
-**Jul/2026 — Atual | Sobral, Ceará**
-
-- Desenvolvimento do frontend do Kallifon Carreira com React, Next.js, TypeScript e Tailwind CSS
-- Reestruturação de aproximadamente **172 referências** e integração TOTVS/ViaShop
-- Automação documental do RH utilizando Apps Script e ecossistema Google
-- Desenvolvimento de automação em **Python + Selenium** para validação e correção de preços em **245 produtos**
-
-### ⚙️ Prestador de Serviços em Automação, Processos e IA — Brownieland
-
-**Jun/2026 — Set/2026 | Remoto**
-
-- Implantação de uma central de gestão operacional no ClickUp
-- Estruturação de fluxos de clientes, follow-ups, pedidos, kits e produção
-- Dashboards, segmentações e controle de comissões
-- Estruturação de **3 GPTs personalizados** com bases de conhecimento, hierarquia de fontes, guardrails e revisão humana
-
-### 🛍️ Auxiliar Administrativo — atuação em E-commerce | JM Collection
-
-**Mar/2025 — Out/2025**
-
-- Participação na implantação do e-commerce e efetivação após aproximadamente uma semana de estágio
-- Implantação da Nuvemshop do zero com catálogo de aproximadamente **100 peças**
-- Integração do Bling ERP à Nuvemshop
-- Implantação de picking e conferência por código de barras
-- Coordenação de equipes de até **5 pessoas**
-- Estruturação de processos que resultaram em divergências praticamente nulas no último inventário
-
 <details>
-<summary><strong>🖥️ Experiências anteriores</strong></summary>
+<summary><strong>🖥️ Earlier Experience</strong></summary>
 
 <br>
 
-### Analista Financeiro — Brownieland
+### Financial Analyst — Brownieland
 
-**Fev/2024 — Fev/2025**
+**Feb 2024 — Feb 2025**
 
-- Fluxo de caixa
-- Contas a pagar e receber
-- Projeções em Excel
-- Relatórios mensais para apoio às decisões financeiras
+- Cash flow management
+- Accounts payable and receivable
+- Financial projections using Excel
+- Monthly management reports to support business decisions
 
-### Estagiário de TI — Chromos Imagem
+### IT Intern — Chromos Imagem
 
-**Ago/2023 — Dez/2023**
+**Aug 2023 — Dec 2023**
 
-- Manutenção de computadores
-- Redes e cabeamento
-- Softwares e impressoras
-- Backups
-- Suporte a usuários em ambiente Windows
+- Computer maintenance and troubleshooting
+- Network and cabling support
+- Software and printer configuration
+- Backup management
+- Windows user support
 
 </details>
 

@@ -247,14 +247,14 @@ Academic e-commerce project originally developed in 2023 and later modernized fo
 
 <div align="center">
 
-## 📫 Vamos conversar?
+## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leviroiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leviroiz)
 [![GitHub](https://img.shields.io/badge/GitHub-leviroiz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leviroiz)
-[![E-mail](https://img.shields.io/badge/E--mail-carloslevirodrigues-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloslevirodrigues@gmail.com)
+[![Email](https://img.shields.io/badge/Email-carloslevirodrigues-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloslevirodrigues@gmail.com)
 
 <br>
 
-<i>"Todo lvl100 já foi um dia lvl1."</i> 💪
+<i>"Every level 100 was once level 1."</i> 💪
 
 </div>

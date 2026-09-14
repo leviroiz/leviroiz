@@ -1,16 +1,16 @@
 <div align="center">
 
-# Olá, eu sou o Carlos Levi! 👋
+# Hi, I'm Carlos Levi 👋
 
-### Desenvolvimento de Software • Automação e Integrações • Sistemas
+### Software Developer • Automation & Integrations • Business Systems
 
-Estudante de Engenharia de Software e Técnico em Informática, com experiência prática em desenvolvimento de software, automação de processos e integrações entre sistemas.
+Software Engineering student and Automation Analyst focused on building web applications, automating processes, and integrating business systems.
 
-Transformo problemas operacionais reais em soluções digitais mais eficientes, rastreáveis e seguras.
+I turn real operational problems into reliable, efficient, and scalable software solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leviroiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leviroiz)
-[![E-mail](https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloslevirodrigues@gmail.com)
-![Localização](https://img.shields.io/badge/Sobral-CE-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloslevirodrigues@gmail.com)
+![Location](https://img.shields.io/badge/Sobral,_Brazil-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 

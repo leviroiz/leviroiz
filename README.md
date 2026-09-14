@@ -234,15 +234,15 @@ Academic e-commerce project originally developed in 2023 and later modernized fo
 
 ---
 
-## 📊 Estatísticas no GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leviroiz&theme=tokyonight" alt="Estatísticas do GitHub de Carlos Levi">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leviroiz&theme=tokyonight" alt="Linguagens dos repositórios de Carlos Levi">
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leviroiz&theme=tokyonight" alt="Carlos Levi's GitHub stats">
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leviroiz&theme=tokyonight" alt="Most used languages">
 
 </div>
-
 ---
 
 <div align="center">

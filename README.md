@@ -41,54 +41,40 @@ I turn real operational problems into reliable, efficient, and scalable software
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Technologies & Tools
 
-### Desenvolvimento
+### Core Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Automação e integrações
+### Backend & Data
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Google Forms](https://img.shields.io/badge/Google_Forms-7248B9?style=for-the-badge&logo=googleforms&logoColor=white)
-![APIs REST](https://img.shields.io/badge/APIs_REST-0A66C2?style=for-the-badge)
-
-### Dados, testes e versionamento
-
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+### Automation & Integrations
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0A66C2?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Sistemas e plataformas
+### Business Platforms
 
 ![TOTVS](https://img.shields.io/badge/TOTVS-0C9ABE?style=for-the-badge)
 ![ViaShop](https://img.shields.io/badge/ViaShop-E--commerce-B91C1C?style=for-the-badge)
 ![Bling ERP](https://img.shields.io/badge/Bling_ERP-E8A800?style=for-the-badge)
 ![Nuvemshop](https://img.shields.io/badge/Nuvemshop-4A0080?style=for-the-badge&logo=shopify&logoColor=white)
-![Cielo](https://img.shields.io/badge/Cielo-0066CC?style=for-the-badge)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 
-### IA aplicada e processos
-
-![IA aplicada](https://img.shields.io/badge/IA_aplicada-412991?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_engineering-5C2D91?style=for-the-badge)
-![Bases de conhecimento](https://img.shields.io/badge/Bases_de_conhecimento-1F6FEB?style=for-the-badge)
-![Guardrails](https://img.shields.io/badge/Guardrails-374151?style=for-the-badge)
-
-> 📖 Atualmente aprofundando conhecimentos em **Django e desenvolvimento full-stack**.
+> 📚 Currently improving my skills in **Django, backend development, and full-stack engineering**.
 
 ---
 

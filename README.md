@@ -78,62 +78,62 @@ I turn real operational problems into reliable, efficient, and scalable software
 
 ---
 
-## 🔥 Entregas profissionais em destaque
+## 🔥 Professional Highlights
 
-### 🛒 Automação de preços — Python + Selenium
+### 🛒 Promotional Pricing Automation — Python + Selenium
 
-Durante a maior campanha promocional da Kallifon, desenvolvi uma automação para conferir, corrigir e validar preços diretamente na ViaShop.
+Built an automation to validate, correct, and recheck promotional prices directly in the ViaShop platform during a critical sales campaign.
 
-A solução foi construída com **Python e Selenium**, utilizando os elementos da interface em vez de automações baseadas em posição de tela.
+The solution was designed using interface elements instead of screen-position automation, making the workflow more reliable and maintainable.
 
-**Principais resultados:**
+**Key results:**
 
-- Conferência de **245 produtos**
-- Identificação de **101 referências** que tiveram preços promocionais alterados pela API
-- Correção seletiva dos preços sem sobrescrever valores que deveriam permanecer inalterados
-- Nova validação automática após cada gravação
-- Análise de **193 referências com grades XG**
-- Cruzamento de divergências por cor e tamanho com disponibilidade de estoque
-- Tolerância para diferenças irrelevantes de R$ 0,01
-- Interrupção segura em situações de incerteza
-- Retomada do processamento sem repetir produtos concluídos
-- Geração de relatórios auditáveis
+- Validated **245 products**
+- Identified **101 product references** affected by pricing changes
+- Corrected prices selectively without overwriting valid values
+- Revalidated data automatically after each update
+- Analyzed **193 references with XG product variants**
+- Cross-checked pricing inconsistencies against stock availability
+- Added tolerance for irrelevant R$ 0.01 differences
+- Implemented safe interruption and resume logic
+- Generated auditable reports for review
 
-O objetivo foi reduzir o risco de preços incorretos durante uma campanha comercial crítica, protegendo faturamento, margem e operação.
+**Business impact:** reduced the risk of incorrect promotional pricing, protecting revenue, margin, and operational consistency.
 
 ---
 
-### 👥 Kallifon Carreira / Trabalhe Conosco
+### 👥 Kallifon Careers — Recruitment Platform
 
-Desenvolvimento do frontend de uma solução para centralizar o processo de recrutamento da empresa.
+Developed the frontend of an internal recruitment platform designed to centralize job openings and candidate applications.
 
-**Stack:**
-
+**Stack:**  
 `React` · `Next.js` · `TypeScript` · `Tailwind CSS`
 
-- Estruturação de vagas, filtros e fluxo de candidatura
-- Participação nas definições de UX e arquitetura da interface
-- Projeto pensado para centralizar um fluxo de aproximadamente **100 currículos por dia**, anteriormente distribuídos entre WhatsApp e e-mail
+- Built job listing, filtering, and application flows
+- Contributed to UX and interface architecture decisions
+- Helped structure a process handling approximately **100 applications per day**
+- Replaced a fragmented workflow previously distributed across WhatsApp and email
 
 ---
 
-### 🔗 Reestruturação TOTVS → ViaShop
+### 🔗 TOTVS → ViaShop E-commerce Restructuring
 
-- Reestruturação da arquitetura de categorias do e-commerce no TOTVS
-- Reclassificação de aproximadamente **172 referências**
-- Integração da nova estrutura à ViaShop
-- Uso de API para apoiar o fluxo entre os sistemas
-- Melhoria da organização e localização dos produtos
+Worked on restructuring the e-commerce catalog architecture between TOTVS and ViaShop.
+
+- Reclassified approximately **172 product references**
+- Integrated the new catalog structure with ViaShop
+- Used API-based workflows to support data synchronization between systems
+- Improved product organization and internal searchability
 
 ---
 
-### 📁 Automação de documentos do RH
+### 📁 HR Document Automation
 
-Automação criada com:
+Built an automated workflow for employee onboarding document organization using:
 
 `Google Forms` · `Google Sheets` · `Google Apps Script` · `Google Drive`
 
-O fluxo automatiza a organização de documentos de admissão, criação de pastas e registros de acesso, reduzindo a necessidade de organização manual.
+The workflow automates document collection, folder creation, and access records, reducing manual organization and improving traceability.
 
 ---
 

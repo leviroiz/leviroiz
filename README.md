@@ -16,16 +16,15 @@ I turn real operational problems into reliable, efficient, and scalable software
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🧑‍💻 About Me
 
-- 🎓 Cursando **Engenharia de Software** na UniCesumar — conclusão prevista para 2030
-- 📚 Técnico em Informática pela **EEEP Monsenhor José Aloysio Pinto**
-- 💻 Experiência prática com **desenvolvimento web, automações, APIs, ERPs e sistemas**
-- ⚙️ Atuação na transformação de processos manuais em fluxos automatizados e rastreáveis
-- 🔗 Experiência conectando tecnologia a RH, vendas, financeiro, logística e e-commerce
-- 🧠 Uso de IA aplicada a processos, bases de conhecimento, guardrails e fluxos de decisão
-- 🎯 Foco profissional em **desenvolvimento, automação, integrações e sistemas**
-- 📍 Sobral, Ceará — Brasil 🇧🇷
+- 🎓 Software Engineering student at **UniCesumar**, expected to graduate in 2030
+- 💻 Building **web applications, automations, APIs, and business system integrations**
+- ⚙️ Experience improving real workflows across **e-commerce, logistics, HR, and operations**
+- 🔗 Working with integrations involving **ERPs, e-commerce platforms, APIs, and internal tools**
+- 🤖 Exploring practical applications of **AI and automation** in business processes
+- 📚 Currently improving my skills in **Django, backend development, and full-stack engineering**
+- 🌎 Based in **Sobral, Ceará, Brazil**
 
 ---
 

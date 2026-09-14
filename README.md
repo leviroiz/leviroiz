@@ -28,18 +28,16 @@ I turn real operational problems into reliable, efficient, and scalable software
 
 ---
 
-## 📈 Alguns números
+## 📈 Impact at a Glance
 
-| Projeto / atuação | Resultado |
+| Area | Impact |
 |---|---:|
-| Produtos validados em automação promocional | **245** |
-| Referências corrigidas após alteração da API | **101** |
-| Referências analisadas em grades XG | **193** |
-| Referências reorganizadas no e-commerce/TOTVS | **~172** |
-| Volume relacionado ao projeto de RH | **~100 currículos/dia** |
-| Produtos estruturados na implantação da JM Collection | **~100** |
-| Pessoas coordenadas em lançamentos/inventários | **até 5** |
-| GPTs personalizados estruturados | **3** |
+| Promotional pricing automation | **245 products validated** |
+| API-related pricing inconsistencies | **101 product references corrected** |
+| Product variants analyzed | **193 references reviewed** |
+| E-commerce catalog restructuring | **~172 product references reorganized** |
+| Recruitment workflow supported | **~100 applications/day** |
+| E-commerce implementation | **~100 products structured** |
 
 ---
 

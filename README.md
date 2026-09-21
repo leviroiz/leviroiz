@@ -29,61 +29,56 @@ Software Engineering student and IT Assistant at Kallifon. I build internal tool
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Price Validation Automation</h3>
+      <h3>Price Validation</h3>
       <p>
         <img alt="Python" src="https://img.shields.io/badge/Python-082238?style=flat-square&logo=python&logoColor=18D9ED">
         <img alt="Selenium" src="https://img.shields.io/badge/Selenium-082238?style=flat-square&logo=selenium&logoColor=18D9ED">
       </p>
       <p>
-        Validates promotional prices against product variants and stock, corrects only what diverges, and rechecks the resulting values.
-        Built from a real e-commerce workflow, with <strong>245 products verified and 101 pricing divergences corrected</strong>.
+        Validates pricing and product variants, checks stock-aware divergences, applies selective corrections, and revalidates results.
       </p>
       <p>
-        Public version rebuilt with synthetic data.<br>
         <a href="https://github.com/leviroiz/ecommerce-price-validation-selenium">View repository ↗</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>HR Admission Automation</h3>
+      <h3>HR Automation</h3>
       <p>
         <img alt="Apps Script" src="https://img.shields.io/badge/Apps%20Script-082238?style=flat-square&logo=googleappsscript&logoColor=18D9ED">
         <img alt="Google Drive" src="https://img.shields.io/badge/Drive-082238?style=flat-square&logo=googledrive&logoColor=18D9ED">
       </p>
       <p>
-        Turns an onboarding form into structured Drive folders and an auditable record, with safe reruns that avoid duplicating or overwriting existing files.
+        Organizes onboarding records and Drive documents with safe reruns, idempotency, and recovery from partial failures.
       </p>
       <p>
-        Based on a real HR workflow; public examples use synthetic data.<br>
         <a href="https://github.com/leviroiz/rh-admission-automation-demo">View repository ↗</a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Commercial Pricing Calculator</h3>
+      <h3>Pricing Calculator</h3>
       <p>
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-082238?style=flat-square&logo=javascript&logoColor=18D9ED">
         <img alt="Playwright" src="https://img.shields.io/badge/Playwright-082238?style=flat-square&logo=playwright&logoColor=18D9ED">
       </p>
       <p>
-        Compares loyalty, progressive, and PIX pricing scenarios side by side, reducing dependence on manual calculations during commercial decisions. Covered by Playwright end-to-end tests.
+        Compares loyalty, progressive, and PIX pricing scenarios using synthetic commercial rules and automated tests.
       </p>
       <p>
-        Public version with synthetic products, prices, and commercial rules.<br>
         <a href="https://github.com/leviroiz/calculadora-comercial-publica">View repository ↗</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Consignment Batch Management</h3>
+      <h3>Consignment Batches</h3>
       <p>
         <img alt="Python" src="https://img.shields.io/badge/Python-082238?style=flat-square&logo=python&logoColor=18D9ED">
         <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-082238?style=flat-square&logo=fastapi&logoColor=18D9ED">
       </p>
       <p>
-        Explores consignment batches, settlements, returns, and customer portfolios with role-based access, session handling, SQLite persistence, and automated tests.
+        Explores batches, settlements, returns, and customer portfolios using a sanitized public demo.
       </p>
       <p>
-        Rebuilt from the analysis of a real workflow using synthetic data only.<br>
         <a href="https://github.com/leviroiz/gestao-lotes-consignados-demo">View repository ↗</a>
       </p>
     </td>

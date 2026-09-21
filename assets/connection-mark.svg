@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="258" height="252" viewBox="-18 -18 258 252" role="img" aria-labelledby="title desc">
+  <title id="title">Levi Roiz — Connection Mark</title>
+  <desc id="desc">Two structural modules joined by a cyan connection. Build, Connect, Improve.</desc>
+  <g id="connection-mark">
+    <path id="left-module" fill="#B9CEDD" d="M0 30 L90 0 V84 H72 V24 L18 42 V150 H0 Z"/>
+    <path id="right-module" fill="#B9CEDD" d="M150 84 H168 L222 102 V120 L168 102 V216 H150 Z"/>
+    <rect id="connection" x="72" y="84" width="78" height="18" fill="#18D9ED"/>
+  </g>
+</svg>

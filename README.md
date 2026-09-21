@@ -1,260 +1,97 @@
-<div align="center">
-
-# Hi, I'm Carlos Levi 👋
-
-### Software Developer • Automation & Integrations • Business Systems
-
-Software Engineering student and Automation Analyst focused on building web applications, automating processes, and integrating business systems.
-
-I turn real operational problems into reliable, efficient, and scalable software solutions.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-leviroiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leviroiz)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloslevirodrigues@gmail.com)
-![Location](https://img.shields.io/badge/Sobral,_Brazil-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Software Engineering student at **UniCesumar**, expected to graduate in 2030
-- 💻 Building **web applications, automations, APIs, and business system integrations**
-- ⚙️ Experience improving real workflows across **e-commerce, logistics, HR, and operations**
-- 🔗 Working with integrations involving **ERPs, e-commerce platforms, APIs, and internal tools**
-- 🤖 Exploring practical applications of **AI and automation** in business processes
-- 📚 Currently improving my skills in **Django, backend development, and full-stack engineering**
-- 🌎 Based in **Sobral, Ceará, Brazil**
-
----
-
-## 📈 Impact at a Glance
-
-| Area | Impact |
-|---|---:|
-| Promotional pricing automation | **245 products validated** |
-| API-related pricing inconsistencies | **101 product references corrected** |
-| Product variants analyzed | **193 references reviewed** |
-| E-commerce catalog restructuring | **~172 product references reorganized** |
-| Recruitment workflow supported | **~100 applications/day** |
-| E-commerce implementation | **~100 products structured** |
-
----
-
-## 🛠️ Technologies & Tools
-
-### Core Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend & Data
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
-### Automation & Integrations
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0A66C2?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Business Platforms
-
-![TOTVS](https://img.shields.io/badge/TOTVS-0C9ABE?style=for-the-badge)
-![ViaShop](https://img.shields.io/badge/ViaShop-E--commerce-B91C1C?style=for-the-badge)
-![Bling ERP](https://img.shields.io/badge/Bling_ERP-E8A800?style=for-the-badge)
-![Nuvemshop](https://img.shields.io/badge/Nuvemshop-4A0080?style=for-the-badge&logo=shopify&logoColor=white)
-
-> 📚 Currently improving my skills in **Django, backend development, and full-stack engineering**.
-
----
-
-## 🔥 Professional Highlights
-
-### 🛒 Promotional Pricing Automation — Python + Selenium
-
-Built an automation to validate, correct, and recheck promotional prices directly in the ViaShop platform during a critical sales campaign.
-
-The solution was designed using interface elements instead of screen-position automation, making the workflow more reliable and maintainable.
-
-**Key results:**
-
-- Validated **245 products**
-- Identified **101 product references** affected by pricing changes
-- Corrected prices selectively without overwriting valid values
-- Revalidated data automatically after each update
-- Analyzed **193 references with XG product variants**
-- Cross-checked pricing inconsistencies against stock availability
-- Added tolerance for irrelevant R$ 0.01 differences
-- Implemented safe interruption and resume logic
-- Generated auditable reports for review
-
-**Business impact:** reduced the risk of incorrect promotional pricing, protecting revenue, margin, and operational consistency.
-
----
-
-### 👥 Kallifon Careers — Recruitment Platform
-
-Developed the frontend of an internal recruitment platform designed to centralize job openings and candidate applications.
-
-**Stack:**  
-`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
-
-- Built job listing, filtering, and application flows
-- Contributed to UX and interface architecture decisions
-- Helped structure a process handling approximately **100 applications per day**
-- Replaced a fragmented workflow previously distributed across WhatsApp and email
-
----
-
-### 🔗 TOTVS → ViaShop E-commerce Restructuring
-
-Worked on restructuring the e-commerce catalog architecture between TOTVS and ViaShop.
-
-- Reclassified approximately **172 product references**
-- Integrated the new catalog structure with ViaShop
-- Used API-based workflows to support data synchronization between systems
-- Improved product organization and internal searchability
-
----
-
-### 📁 HR Document Automation
-
-Built an automated workflow for employee onboarding document organization using:
-
-`Google Forms` · `Google Sheets` · `Google Apps Script` · `Google Drive`
-
-The workflow automates document collection, folder creation, and access records, reducing manual organization and improving traceability.
-
----
-
-## 🚀 Featured Public Projects
-
-### 📦 [Consignment Batch Management System](https://github.com/leviroiz/gestao-lotes-consignados-demo)
-
-A full-stack prototype based on the analysis of a real consignment workflow, created to validate business rules, user roles, and interface flows.
-
-The original process was later handled by an internal solution. For portfolio purposes, I rebuilt the project as a public demo using only synthetic data.
-
-**Stack:**  
-`Python` · `FastAPI` · `SQLite` · `Jinja2` · `JavaScript` · `Pytest`
-
-**Highlights:**
-
-- Backend built with Python and FastAPI
-- Role-based authentication and authorization
-- Secure session handling
-- SQLite persistence
-- Asynchronous API integration using HTTPX
-- Automated tests with Pytest
-- Public demo with no real company data, credentials, brands, or private endpoints
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://leviroiz.github.io/gestao-lotes-consignados-demo/)
-
----
-
-### 🐣 [Presentes da Cegonha — E-commerce](https://github.com/leviroiz/presentes-da-cegonha)
-
-Academic e-commerce project originally developed in 2023 and later modernized for portfolio purposes.
-
-**Stack:**  
-`PHP` · `MySQL` · `Docker` · `GitHub Actions`
-
-**Highlights:**
-
-- Product catalog and authentication
-- Demonstration shopping cart
-- Admin dashboard with MySQL CRUD operations
-- Prepared statements and CSRF protection
-- Secure password handling and session control
-- Environment variables
-- Dockerized development environment
-- Automated checks with GitHub Actions
-- Original academic version preserved in the `v1-academico-2023` tag
-
-<details>
-<summary><strong>🔨 Other Projects & Studies</strong></summary>
-
-<br>
-
-- [Calculator iOS 26](https://github.com/leviroiz/Calculator-IOS-26) — responsive calculator built with JavaScript and CSS Grid, with keyboard support
-- [Disney+ Clone](https://github.com/leviroiz/disney-plus-clone) — landing page focused on HTML and CSS practice
-- [Netflix Clone](https://github.com/leviroiz/netflix-clone) — study project focused on semantic HTML, CSS Grid, and visual composition
-
-</details>
-
----
-
-<details>
-<summary><strong>🖥️ Earlier Experience</strong></summary>
-
-<br>
-
-### Financial Analyst — Brownieland
-
-**Feb 2024 — Feb 2025**
-
-- Cash flow management
-- Accounts payable and receivable
-- Financial projections using Excel
-- Monthly management reports to support business decisions
-
-### IT Intern — Chromos Imagem
-
-**Aug 2023 — Dec 2023**
-
-- Computer maintenance and troubleshooting
-- Network and cabling support
-- Software and printer configuration
-- Backup management
-- Windows user support
-
-</details>
-
----
-
-## 🎓 Education & Certifications
-
-- **B.Sc. in Software Engineering** — UniCesumar  
-  *Expected graduation: 2030*
-
-- **Technical Degree in Information Technology** — EEEP Monsenhor José Aloysio Pinto  
-  *Completed in 2023*
-
-- **IT Technical Support** — Dell Technologies (Dell EMC)
-
----
-
-## 📊 GitHub Stats
+<p align="center">
+  <img src="./assets/github-hero.svg" alt="Levi Roiz systems identity: Connection Mark on a navy modular field" width="100%">
+</p>
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leviroiz&theme=tokyonight" alt="Carlos Levi's GitHub stats">
+# Levi Roiz
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leviroiz&theme=tokyonight" alt="Most used languages">
+**Software Development • Python • React • Automation • Integrations**
 
-</div>
----
+**Build • Connect • Improve.**
 
-<div align="center">
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-leviroiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leviroiz)
-[![GitHub](https://img.shields.io/badge/GitHub-leviroiz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leviroiz)
-[![Email](https://img.shields.io/badge/Email-carloslevirodrigues-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloslevirodrigues@gmail.com)
-
-<br>
-
-<i>"Every level 100 was once level 1."</i> 💪
+<p>
+  <img alt="IT Assistant at Kallifon" src="https://img.shields.io/badge/IT%20Assistant-Kallifon-18D9ED?style=flat-square&labelColor=061A2D">
+  <a href="https://www.linkedin.com/in/leviroiz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-leviroiz-B9CEDD?style=flat-square&labelColor=061A2D"></a>
+  <a href="mailto:carloslevirodrigues@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-B9CEDD?style=flat-square&labelColor=061A2D"></a>
+</p>
 
 </div>
+
+## About
+
+Software Engineering student and IT Assistant at Kallifon. I build internal tools, automations, and system integrations that make operational workflows faster and more reliable — mostly in Python and JavaScript, connecting ERPs, e-commerce platforms, and internal systems.
+
+Open to junior software development and automation roles, remote or in Ceará.
+
+<img src="./assets/brand-divider.svg" alt="" width="100%">
+
+## Featured Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Price Validation Automation</h3>
+      <p><img alt="Python" src="https://img.shields.io/badge/Python-082238?style=flat-square&logo=python&logoColor=18D9ED"> <img alt="Selenium" src="https://img.shields.io/badge/Selenium-082238?style=flat-square&logo=selenium&logoColor=18D9ED"></p>
+      <p>Validates promotional prices against variants and stock, corrects only what diverges, then rechecks. Built for a live sales campaign: <strong>245 products verified, 101 pricing divergences corrected, 193 variant references reviewed</strong>.</p>
+      <p>Public version with synthetic data.<br><a href="https://github.com/leviroiz/ecommerce-price-validation-selenium">View repository ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>HR Admission Automation</h3>
+      <p><img alt="Apps Script" src="https://img.shields.io/badge/Apps%20Script-082238?style=flat-square&logo=googleappsscript&logoColor=18D9ED"> <img alt="Google Drive" src="https://img.shields.io/badge/Drive-082238?style=flat-square&logo=googledrive&logoColor=18D9ED"></p>
+      <p>Turns an onboarding form into structured Drive folders and an auditable record, with safe reruns that never duplicate or overwrite existing files.</p>
+      <p>Replaced manual folder-by-folder organization in HR.<br><a href="https://github.com/leviroiz/rh-admission-automation-demo">View repository ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Commercial Pricing Calculator</h3>
+      <p><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-082238?style=flat-square&logo=javascript&logoColor=18D9ED"> <img alt="Playwright" src="https://img.shields.io/badge/Playwright-082238?style=flat-square&logo=playwright&logoColor=18D9ED"></p>
+      <p>Compares loyalty, progressive, and PIX pricing scenarios side by side so sales decisions stop depending on manual spreadsheet math. Covered by Playwright end-to-end tests.</p>
+      <p>Public version with synthetic data.<br><a href="https://github.com/leviroiz/calculadora-comercial-publica">View repository ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Consignment Batch Management</h3>
+      <p><img alt="Python" src="https://img.shields.io/badge/Python-082238?style=flat-square&logo=python&logoColor=18D9ED"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-082238?style=flat-square&logo=fastapi&logoColor=18D9ED"></p>
+      <p>Tracks consignment batches, settlements, returns, and customer portfolios. Role-based auth, session handling, SQLite persistence, and Pytest coverage.</p>
+      <p>Rebuilt from a real workflow analysis, synthetic data only.<br><a href="https://github.com/leviroiz/gestao-lotes-consignados-demo">View repository ↗</a></p>
+    </td>
+  </tr>
+</table>
+
+<p><strong>Earlier project / foundation</strong><br>
+<a href="https://github.com/leviroiz/presentes-da-cegonha">Presentes da Cegonha</a> · <code>PHP</code> · <code>MariaDB</code> · <code>Docker</code><br>
+An academic e-commerce project later modernized with prepared statements, CSRF protection, automated checks, and a reproducible Docker environment. Original 2023 version preserved under the <code>v1-academico-2023</code> tag.</p>
+
+<img src="./assets/brand-divider.svg" alt="" width="100%">
+
+## Tech Stack
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-082238?style=flat-square&logo=python&logoColor=18D9ED">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-082238?style=flat-square&logo=typescript&logoColor=18D9ED">
+  <img alt="React" src="https://img.shields.io/badge/React-082238?style=flat-square&logo=react&logoColor=18D9ED">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-082238?style=flat-square&logo=fastapi&logoColor=18D9ED">
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-082238?style=flat-square&logo=selenium&logoColor=18D9ED">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-082238?style=flat-square&logo=docker&logoColor=18D9ED">
+</p>
+
+**Also working with:** Next.js, Tailwind CSS, Google Apps Script, REST APIs, SQL, Pytest, GitHub Actions.
+
+## Current Role
+
+**IT Assistant — Kallifon**<br>
+Joined as an IT & E-commerce Intern and moved into my current role. Selected work:
+
+- **Kallifon Careers** — built the frontend of an internal recruitment platform in React, Next.js, and TypeScript, supporting roughly **100 applications per day** and replacing a process previously scattered across WhatsApp and email.
+- **TOTVS → ViaShop catalog restructuring** — reclassified around **172 product references** and integrated the new structure through API-based synchronization.
+- **Process automation** — internal tooling and integrations across e-commerce, HR, and commercial operations.
+
+## Education
+
+**Software Engineering — UniCesumar** · Expected graduation: 2030<br>
+**Technical Degree in Information Technology** — EEEP Monsenhor José Aloysio Pinto · 2023
+
+## Contact
+
+Based in Sobral, Ceará, Brazil. Reach me through [LinkedIn](https://www.linkedin.com/in/leviroiz) or [email](mailto:carloslevirodrigues@gmail.com).

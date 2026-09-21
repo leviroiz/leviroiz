@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="16" viewBox="0 0 1200 16" role="img" aria-labelledby="title">
+  <title id="title">Connection Mark derived section divider</title>
+  <g fill="none" stroke="#5482A8" stroke-width="1" opacity="0.48">
+    <path d="M0 8 H552 L570 3 H584"/>
+    <path d="M616 13 H630 L648 8 H1200"/>
+  </g>
+  <rect x="584" y="3" width="32" height="10" fill="#18D9ED"/>
+</svg>

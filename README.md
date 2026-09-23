@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="./assets/github-hero.svg" alt="Levi Roiz — software, automation and integrations" width="100%">
+  <img src="./assets/hero.jpg" alt="Levi Roiz's workspace at night: monitors, warm desk lamp and the Connection Mark" width="100%">
 </p>
 
 # Levi Roiz
 
-**IT Assistant at Kallifon, working with software development, automation, integrations and operational systems.**
+**Software Developer · IT Assistant at Kallifon — automation, integrations and internal systems for e-commerce, ERP and logistics.**
 
-I like understanding how a process works, finding what creates unnecessary work, and turning it into something simpler, connected and easier to operate.
+My work starts with the process: understanding how it works, finding what creates unnecessary work, and turning it into something simpler, connected and easier to operate.
 
 **Build • Connect • Improve.**
 
-[LinkedIn](https://www.linkedin.com/in/leviroiz) · [Email](mailto:carloslevirodrigues@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/leviroiz) · [Email](mailto:carlosleviroiz@gmail.com)
 
 <img src="./assets/brand-divider.svg" alt="" width="100%">
 
@@ -22,7 +22,7 @@ Automation built around a real e-commerce pricing workflow involving product ref
 
 The public reconstruction focuses on variant-level validation, stock-aware decisions, recovery after interrupted executions and verification after writes.
 
-Real-world execution snapshots from separate stages of the original workflow included **245 product references validated** and **101 pricing inconsistencies identified**.
+In the original workflow, **245 products were audited** and **101 listings were corrected** — each fix tested, validated and checked.
 
 `Python` `Selenium` `Pytest`
 
@@ -100,11 +100,18 @@ Most of my work sits between software development and operations: understanding 
 
 That work has involved internal web applications, e-commerce and ERP workflows, APIs, logistics, commercial tooling and process automation.
 
+**Currently** (private, company projects):
+
+- **Kallifon Rastreio** — automated shipment-tracking notifications with the TOTVS ERP API, a persistent queue, deduplication and retries. *In development.*
+- **Kallifon Carreira** — frontend of a recruiting platform in React, Next.js and TypeScript. *In development.*
+- **J&T Express integration** — authentication, request signing and electronic invoice (NF-e) data. *In staging.*
+- **Commercial pricing calculator** — isolated, tested discount rules. *In production* with Docker and Nginx.
+
 ---
 
 ## Technologies
 
-`Python` `JavaScript` `TypeScript` `React` `Next.js` `FastAPI` `Selenium` `Playwright` `Google Apps Script` `SQL` `Docker` `GitHub Actions` `REST APIs`
+`Python` `JavaScript` `TypeScript` `React` `Next.js` `FastAPI` `Selenium` `Playwright` `Google Apps Script` `SQL` `Docker` `Nginx` `GitHub Actions` `REST APIs`
 
 ---
 

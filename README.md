@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.jpg" alt="Levi Roiz's workspace at night: monitors, warm desk lamp and the Connection Mark" width="100%">
+  <img src="./assets/hero.jpg" alt="Levi Roiz — Connection Mark" width="100%">
 </p>
 
 # Levi Roiz

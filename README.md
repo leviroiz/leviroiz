@@ -4,9 +4,11 @@
 
 # Levi Roiz
 
-**Software Developer · IT Assistant at Kallifon — automation, integrations and internal systems for e-commerce, ERP and logistics.**
+**Full-stack Software Developer · Automation · Systems Integration**
 
-My work starts with the process: understanding how it works, finding what creates unnecessary work, and turning it into something simpler, connected and easier to operate.
+I work as an IT Assistant at Kallifon, where I design, develop, test and deploy software solutions for inventory operations, e-commerce, logistics and internal business processes.
+
+My approach starts with understanding the problem, designing a practical solution and delivering software that people can actually use.
 
 **Build • Connect • Improve.**
 
@@ -92,26 +94,46 @@ The original academic version remains available under the `v1-academico-2023` ta
 
 ### Kallifon
 
-**IT Assistant**
+**IT Assistant · Software Development & Automation**
 
-I joined Kallifon as an **IT & E-commerce Intern** and later moved into my current role as an **IT Assistant**.
+I joined Kallifon as an IT & E-commerce Intern and later transitioned into my current IT Assistant role, taking on responsibilities involving full-stack development, system integration, automation and software deployment.
 
-Most of my work sits between software development and operations: understanding how an existing process works, identifying where systems or manual work create friction, and building tools or integrations around those problems.
+My work spans the software development lifecycle, from understanding operational requirements and designing solutions to implementation, testing, deployment and continuous improvement.
 
-That work has involved internal web applications, e-commerce and ERP workflows, APIs, logistics, commercial tooling and process automation.
+**Selected contributions:**
 
-**Currently** (private, company projects):
+- **SEEK — Inventory & Location Management:** conceived and independently developed a full-stack system for warehouse addressing, product location, inventory verification and operational traceability. The system supports warehouse operations and helps employees locate products and collaborate more independently.
 
-- **Kallifon Rastreio** — automated shipment-tracking notifications with the TOTVS ERP API, a persistent queue, deduplication and retries. *In development.*
-- **Kallifon Carreira** — frontend of a recruiting platform in React, Next.js and TypeScript. *In development.*
-- **J&T Express integration** — authentication, request signing and electronic invoice (NF-e) data. *In staging.*
-- **Commercial pricing calculator** — isolated, tested discount rules. *In production* with Docker and Nginx.
+- **TOTVS & ViaShop Automation:** developed controlled workflows for processing historical orders, validating business rules and restoring product availability in the e-commerce operation.
 
----
+- **J&T Express & Kallifon Rastreio:** developed shipment-tracking integrations and automated email notifications, using persistent processing, deduplication and retry mechanisms.
+
+- **Electronic Invoice Automation:** implemented an automated NF-e email workflow, introducing a customer communication process that previously did not exist.
+
+- **Kallifon Carreira:** developed the frontend of the company's recruitment platform using React, Next.js and TypeScript, including job listings, filters, vacancy details and the initial application interface.
+
+- **Product Image Automation:** developed automated workflows for matching and uploading product photographs by reference and variation.
+
+- **Commercial Pricing Calculator:** developed and deployed a web application for comparing commercial discount scenarios, with automated tests, Docker and Nginx.
+
+**Technical focus:** full-stack development, REST API integrations, business process automation, relational databases, automated testing and deployment.
+
+> Most company systems are private. The public repositories below are independent projects or sanitized reconstructions using synthetic data. They do not expose proprietary source code, credentials or internal operational data.
+
 
 ## Technologies
 
-`Python` `JavaScript` `TypeScript` `React` `Next.js` `FastAPI` `Selenium` `Playwright` `Google Apps Script` `SQL` `Docker` `Nginx` `GitHub Actions` `REST APIs`
+**Languages**  
+`Python` `TypeScript` `JavaScript` `SQL` `PHP`
+
+**Backend & Frontend**  
+`Django` `FastAPI` `React` `Next.js` `HTML` `CSS` `Tailwind CSS`
+
+**Databases & Infrastructure**  
+`PostgreSQL` `MySQL` `MariaDB` `Docker` `Nginx` `Git` `GitHub Actions`
+
+**Automation & Testing**  
+`REST APIs` `Selenium` `Playwright` `Pytest` `Google Apps Script`
 
 ---
 

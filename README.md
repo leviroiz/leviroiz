@@ -118,7 +118,7 @@ My work spans the software development lifecycle, from understanding operational
 
 **Technical focus:** full-stack development, REST API integrations, business process automation, relational databases, automated testing and deployment.
 
-> Most company systems are private. The public repositories below are independent projects or sanitized reconstructions using synthetic data. They do not expose proprietary source code, credentials or internal operational data.
+> Most company systems are private. The public repositories featured in the Selected work section are independent projects or sanitized reconstructions using synthetic data. They do not expose proprietary source code, credentials or internal operational data.
 
 
 ## Technologies

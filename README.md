@@ -32,11 +32,15 @@ Developed J&T Express tracking integrations and automated customer email notific
 
 `API Integration` `Backend` `Automation`
 
+[Read engineering case study →](docs/kallifon-rastreio-case-study.md)
+
 ### Business & E-commerce Automation
 
 Built solutions for automated NF-e delivery, controlled ERP order processing, product image matching and bulk uploads. Also developed the frontend of the Kallifon Carreira recruitment platform.
 
 `Python` `ERP` `APIs` `React` `Next.js`
+
+[Explore automation case studies →](docs/business-automation-case-studies.md)
 
 > Company systems are private. Technical case studies describe professional contributions without exposing proprietary source code or operational data.
 

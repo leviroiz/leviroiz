@@ -5,7 +5,7 @@
 > **At a glance:** Developed shipment-tracking integrations and automated customer notification workflows, focusing on reliable event processing, duplicate prevention and failure recovery.
 
 **Role:** Software Development & Integration  
-**Status:** Implementation completed (October 2026)  
+**Status:** Deployed in production (October 2026)  
 **Focus:** APIs · Backend Automation · Reliability
 
 ---
@@ -34,7 +34,7 @@ The central engineering challenge was making external tracking information usabl
 
 ## Outcome
 
-The tracking integration and automated notification implementation were completed.
+The tracking integration and automated notification workflows were deployed to production.
 
 Production notification volumes, delivery rates and operational time savings are not presented as verified metrics.
 
@@ -44,4 +44,4 @@ This case study describes a private company system at a high level. It does not 
 
 ---
 
-**Levi Roiz** · [GitHub](https://github.com/leviroiz) · [LinkedIn](https://www.linkedin.com/in/leviroiz/)
+**Levi Roiz** · [Portfolio](https://leviroiz.dev) · [GitHub](https://github.com/leviroiz) · [LinkedIn](https://www.linkedin.com/in/leviroiz/)

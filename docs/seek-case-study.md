@@ -56,4 +56,4 @@ SEEK is proprietary company software. This case study is shared with management 
 ---
 
 **Developed by [Levi Roiz](https://github.com/leviroiz)**  
-[LinkedIn](https://www.linkedin.com/in/leviroiz/)
+[Portfolio](https://leviroiz.dev/seek) · [LinkedIn](https://www.linkedin.com/in/leviroiz/)
